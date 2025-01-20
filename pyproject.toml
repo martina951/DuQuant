@@ -3,3 +3,4 @@ name = "duquant"
 version = "0.1.0"
 description = "[NeurIPS 2024 Oral🔥] DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs."
 requires-python = ">=3.10"
+# handle the edge case from the last release
