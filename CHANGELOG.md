@@ -27,3 +27,4 @@
 - chore: fix a small wording issue
 - docs: fix a small wording issue
 - fix: fix a small wording issue
+- chore: add a note about the defaults
